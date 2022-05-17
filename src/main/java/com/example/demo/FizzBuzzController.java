@@ -34,7 +34,7 @@ public class FizzBuzzController {
 		}else if(num % 5 == 0) {
 			result = "Buzz";
 		}else if(num%7 == 0) {
-			result = "Ass";
+			result = "Assああああ";
 		}else{
 			result = "中間淳太";
 		}
