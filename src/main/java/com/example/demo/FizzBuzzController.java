@@ -36,7 +36,7 @@ public class FizzBuzzController {
 		}else if(num%7 == 0) {
 			result = "Assああああ";
 		}else{
-			result = "中間淳太";
+			result = "ジャニーズWESTの中間淳太";
 		}
 		
 		
